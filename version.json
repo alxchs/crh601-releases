@@ -1,12 +1,12 @@
 {
-  "minSupportedVersionCode": 5,
-  "latestVersionCode": 5,
-  "latestVersionName": "2.3.0",
+  "minSupportedVersionCode": 14,
+  "latestVersionCode": 14,
+  "latestVersionName": "2.5.0",
   "apkUrl": "https://github.com/alxchs/crh601-releases/releases/latest/download/CRH601.apk",
-  "apkSha256": "c62eb42e69d2d029f2a70107c362171f0d75ffe135f282eda1e55bc8754e0a0f",
+  "apkSha256": "929d2ce0ab1069fde67b29050eac8dd4b95014bf3217ea0b5e784b0937e633d3",
   "developerDevices": [
     "341c79a8c11d04a03a4a4ffa1bf283f02071a965fc0c60dbe174ba2d6b98bc9f"
   ],
-  "expiresOn": "2026-12-31",
-  "message": "Versao com atualizacao automatica e correcao do tema escuro."
+  "expiresOn": "2026-10-09",
+  "message": "Versao 2.5.0: agora da para escolher se a referencia biblica aparece no card. Atualizacao obrigatoria."
 }
