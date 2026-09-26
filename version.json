@@ -1,12 +1,12 @@
 {
-  "minSupportedVersionCode": 16,
-  "latestVersionCode": 16,
-  "latestVersionName": "2.5.2",
+  "minSupportedVersionCode": 17,
+  "latestVersionCode": 17,
+  "latestVersionName": "2.5.3",
   "apkUrl": "https://github.com/alxchs/crh601-releases/releases/latest/download/CRH601.apk",
-  "apkSha256": "f761af7dc33a0a980365253e84c0fb785e3ec0eeb365992fe15160e76e6f4582",
+  "apkSha256": "e16ee71c9b49f25dc43cfeff7db1db1ad5f0d7135dd4b8f138e0388f34cbbd6f",
   "developerDevices": [
     "341c79a8c11d04a03a4a4ffa1bf283f02071a965fc0c60dbe174ba2d6b98bc9f"
   ],
   "expiresOn": "2026-10-09",
-  "message": "Versao 2.5.2: o CRH 601 agora e um app novo. Toque em Baixar, instale o novo e depois desinstale este app antigo."
+  "message": "Versao 2.5.3: atualizacao obrigatoria. O app ficou menor e a atualizacao usa bem menos memoria. Toque em Baixar e instale. Se ainda tiver o app antigo do CRH 601, desinstale-o depois."
 }
