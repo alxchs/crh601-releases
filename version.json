@@ -1,12 +1,12 @@
 {
-  "minSupportedVersionCode": 18,
-  "latestVersionCode": 18,
-  "latestVersionName": "2.5.4",
+  "minSupportedVersionCode": 19,
+  "latestVersionCode": 19,
+  "latestVersionName": "2.6.0",
   "apkUrl": "https://github.com/alxchs/crh601-releases/releases/latest/download/CRH601.apk",
-  "apkSha256": "631e89a68b561e96e7a2d6193a5ac0c8158503950da805b7a9181180ebf13290",
+  "apkSha256": "ddda8d4a179c1ff1b698d779a11155493cab757640b9fcf45be6de3c991fbd42",
   "developerDevices": [
     "341c79a8c11d04a03a4a4ffa1bf283f02071a965fc0c60dbe174ba2d6b98bc9f"
   ],
   "expiresOn": "2026-10-10",
-  "message": "Versao 2.5.4: atualizacao obrigatoria. Correcao no aviso de tamanho do texto na previa quando ha imagem no card. Toque em Baixar e instale."
+  "message": "Versao 2.6.0: atualizacao obrigatoria. Ajuste visual no icone do app. Toque em Baixar e instale."
 }
