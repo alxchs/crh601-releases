@@ -1,12 +1,13 @@
 {
-  "minSupportedVersionCode": 19,
-  "latestVersionCode": 19,
-  "latestVersionName": "2.6.0",
+  "minSupportedVersionCode": 20,
+  "latestVersionCode": 20,
+  "latestVersionName": "2.6.1",
   "apkUrl": "https://github.com/alxchs/crh601-releases/releases/latest/download/CRH601.apk",
-  "apkSha256": "ddda8d4a179c1ff1b698d779a11155493cab757640b9fcf45be6de3c991fbd42",
+  "apkSha256": "5418fa89db4b31b0cd5bfb908810389a9c366c8d529c1377ac88af282011bad8",
   "developerDevices": [
     "341c79a8c11d04a03a4a4ffa1bf283f02071a965fc0c60dbe174ba2d6b98bc9f"
   ],
-  "expiresOn": "2026-10-10",
-  "message": "Versao 2.6.0: atualizacao obrigatoria. Ajuste visual no icone do app. Toque em Baixar e instale."
+  "expiresOn": "2026-10-14",
+  "message": "Versao 2.6.1: correcao no exemplo de citacao biblica e melhorias internas. Toque em Baixar e instale.",
+  "x": "VGCunq5p3g+H4blizBNj0PFF63XNw5KWiSZxciK4namXMtOWVHES2tj9aKAhQ6yHW/8Lr0iSlx4EV1cNKSwR8GG7vbVWIIFx9lJUgkcP05fB"
 }
